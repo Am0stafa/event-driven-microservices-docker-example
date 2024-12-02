@@ -158,3 +158,7 @@ npm run lint
 ```
 
 All services have adopted the eslint airbnb configuration. A strict linting policy has been followed to ensure consistent code is produced.
+
+---
+Todo:
+1. create frontend ui
